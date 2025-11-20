@@ -6,13 +6,14 @@ bin/
 obj/
 
 # Visual Studio files
+.vs/
+Debug/
+Release/
+x64/
 *.user
 *.suo
 *.VC.db
 *.pdb
-
-# Visual Studio Code settings (if any)
-.vscode/
 
 # Executables and libraries
 *.exe
