@@ -1,0 +1,22 @@
+# Build Folders
+Debug/
+Release/
+x64/
+bin/
+obj/
+
+# Visual Studio files
+*.user
+*.suo
+*.VC.db
+*.pdb
+
+# Visual Studio Code settings (if any)
+.vscode/
+
+# Executables and libraries
+*.exe
+*.dll
+
+# Other temp files
+*.log
