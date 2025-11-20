@@ -5,8 +5,6 @@ This project was created while studying for a college exam.
 Some game functionality follows the exam requirements, while additional features, such as marking expected mine locations with flags, were added later to make the game more complete.  
 Parts of the code are based on examples lectured during class.
 
----
-
 ## Features
 
 - 20x20 Minesweeper grid
@@ -16,8 +14,6 @@ Parts of the code are based on examples lectured during class.
 - Randomly generates mines with a 10% chance per cell
 - Restart game with the 'd' key
 - Exit game with the 'x' key
-
----
 
 ## Controls
 
